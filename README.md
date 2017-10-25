@@ -554,6 +554,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEXML](https://github.com/tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
+* [CheatyXML](https://github.com/lobodart/CheatyXML) - A Swift framework designed to manage XML easily.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLParser](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.
